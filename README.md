@@ -10,3 +10,5 @@ Recupera el codi escrit a la pràctica anterior 08 Divisió entera i aplica els 
 El lliurament ha d'incloure:
 
     El programa amb el nom: "09_bones_practiques.py"
+
+El lliurament s'ha de fer a: <https://classroom.github.com/a/Kvayy7fR>
